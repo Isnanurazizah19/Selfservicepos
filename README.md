@@ -1,0 +1,2 @@
+# Selfservicepos
+ selfservicepos
